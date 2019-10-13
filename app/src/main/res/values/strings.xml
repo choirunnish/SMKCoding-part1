@@ -6,6 +6,8 @@
     <string name="no_hp" />
     <string name="_085876610835" />
     <string name="login" />
-    <string name="register" />
+    <string name="register"/>
+    <string name="home">home</string>
+    <string name="my_profil">my_profil</string>
 
 </resources>
